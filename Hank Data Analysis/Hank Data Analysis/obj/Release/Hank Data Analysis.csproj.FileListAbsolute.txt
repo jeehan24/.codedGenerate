@@ -1,0 +1,9 @@
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\bin\Release\Hank Data Analysis.exe.config
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\bin\Release\Hank Data Analysis.exe
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\bin\Release\Hank Data Analysis.pdb
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\obj\Release\Hank Data Analysis.csprojResolveAssemblyReference.cache
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\obj\Release\Hank_Data_Analysis.Form1.resources
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\obj\Release\Hank_Data_Analysis.Properties.Resources.resources
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\obj\Release\Hank Data Analysis.csproj.GenerateResource.Cache
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\obj\Release\Hank Data Analysis.exe
+C:\Users\Pooya\Desktop\Hank Data Analysis\Hank Data Analysis\obj\Release\Hank Data Analysis.pdb
